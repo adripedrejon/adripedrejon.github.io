@@ -14,4 +14,11 @@ Hello, my name is Adriana and I am from Spain. I have studied Computer Science a
 * Going out with my friends
 * Traveling
 
-[You can also find it here]: [https://adripedrejon.github.io]
+[You can also find it here] [https://adripedrejon.github.io]
+
+For code: 
+
+```python
+  print("Hello Data Science")
+
+
