@@ -1,5 +1,5 @@
-# adripedrejon.github.io
 
+# adripedrejon.github.io
 ## This is my WebPage
 ### Welcome everybody
 
@@ -15,6 +15,9 @@ Hello, my name is Adriana and I am from Spain. I have studied Computer Science a
 * Traveling
 
 [You can also find it here] [https://adripedrejon.github.io]
+
+### Go Huskies!
+<img src='./foto.jpg' width='300'>
 
 For code: 
 
