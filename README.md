@@ -1,13 +1,17 @@
 # adripedrejon.github.io
 
-##H2
-###H3
+## This is my WebPage
+### Welcome everybody
 
-*makes italics*
+### Introduction
 
-**bold face**
+Hello, my name is Adriana and I am from Spain. I have studied Computer Science and I am here because I want to learn more about Data Science because I think is the future. 
 
-[this is a link] [https://adripedrejon.github.io]
+### Hobbies
 
-1. List ONE
-2. *LIST TWO
+* Playing padel
+* Listening to music
+* Going out with my friends
+* Traveling
+
+[You can also find it here]: [https://adripedrejon.github.io]
